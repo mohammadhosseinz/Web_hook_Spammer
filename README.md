@@ -3,12 +3,17 @@
 Misuse of this program is your responsibility
 
 Dependencies :
-python
+python |
 Library requests
 
 Install Library:
 pip install requests
 
-<video width="320" height="240" autoplay>
-  <source src="https://cdn.discordapp.com/attachments/878887371066716204/879260075498303488/2021-08-23_11-32-25.mp4" type="video/mp4">
-</video>
+---------------------
+Preview
+
+https://user-images.githubusercontent.com/75082987/130405123-9b0f4980-9502-41f2-9433-a24bbd0b2fad.mp4
+
+
+
+
